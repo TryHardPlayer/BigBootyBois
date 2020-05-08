@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 1261627962}
   - component: {fileID: 1261627961}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: DeathCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
