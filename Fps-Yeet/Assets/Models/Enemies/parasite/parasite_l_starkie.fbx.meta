@@ -11,7 +11,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: parasitezombie_Material
-    second: {fileID: 2100000, guid: 6145d33002f90f74595f2dab545d7960, type: 2}
+    second: {fileID: 2100000, guid: 7176a699bfcc87344a7409894940d335, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule

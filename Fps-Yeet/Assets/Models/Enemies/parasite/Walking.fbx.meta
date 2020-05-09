@@ -8,6 +8,11 @@ ModelImporter:
     second: mixamo.com
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parasitezombie_Material
+    second: {fileID: 2100000, guid: 7176a699bfcc87344a7409894940d335, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: parasiteZombie_diffuse
