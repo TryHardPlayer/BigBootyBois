@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class ControlScript : MonoBehaviour
 {
+    public CharacterController controller;
+
     // Start is called before the first frame update
     void Start()
     {
