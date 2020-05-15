@@ -557,6 +557,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerCylinder
       objectReference: {fileID: 0}
+    - target: {fileID: 5336411325405669913, guid: 26ff4763df4656f4cbd602c7d1490d15,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 6062431529696571784, guid: 26ff4763df4656f4cbd602c7d1490d15,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -565,7 +570,7 @@ PrefabInstance:
     - target: {fileID: 6062431529696571784, guid: 26ff4763df4656f4cbd602c7d1490d15,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.7190533
+      value: 5.15
       objectReference: {fileID: 0}
     - target: {fileID: 6062431529696571784, guid: 26ff4763df4656f4cbd602c7d1490d15,
         type: 3}
@@ -595,7 +600,7 @@ PrefabInstance:
     - target: {fileID: 6062431529696571784, guid: 26ff4763df4656f4cbd602c7d1490d15,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6062431529696571784, guid: 26ff4763df4656f4cbd602c7d1490d15,
         type: 3}
